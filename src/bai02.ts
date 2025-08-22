@@ -8,7 +8,7 @@ export class Student extends Person {
         this.grade = grade;
     }
 
-    displayInfo(): void {
+    displayInfoAll(): void {
         console.log(`Name: ${this.name}, Age: ${this.age}, Grade: ${this.grade}`);
     }
 }

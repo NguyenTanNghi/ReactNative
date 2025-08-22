@@ -1,7 +1,7 @@
 export class Book {
-    private title: string;
-    private author: string;
-    private year: number;
+     title: string;
+     author: string;
+     year: number;
 
     constructor(title: string, author: string, year: number) {
         this.title = title;
