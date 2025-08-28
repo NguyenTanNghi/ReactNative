@@ -65,6 +65,8 @@ console.log("\n===================== Bai 08 =====================");
 console.log("Products with price > 100:");
 expensiveProducts.forEach(product => product.displayInfo());
 
+// bai 09
+
 
 
 
