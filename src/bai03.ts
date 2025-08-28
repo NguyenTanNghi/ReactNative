@@ -10,6 +10,8 @@ export class Car {
     }
 
     showInfo(): void {
-        console.log(`Car Info: ${this.brand} ${this.model}, Year: ${this.year}`);
+        console.log(
+            `Car Info: ${this.brand} ${this.model}, Year: ${this.year}`
+        );
     }
 }
