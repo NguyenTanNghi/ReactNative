@@ -8,4 +8,4 @@ export class Person {
     displayInfo(): void {
         console.log(`Name: ${this.name}, Age: ${this.age}`);
     }
-}
+} 
